@@ -1,1 +1,1 @@
-2nd file to be in git_repo02 to do the test
+2nd file to be in git_repo02 to do the test. it is the commit msg need to change to repo02 , not the file itself
